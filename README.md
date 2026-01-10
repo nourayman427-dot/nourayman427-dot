@@ -16,6 +16,11 @@ Currently seeking a <strong>data-driven opportunity</strong> to apply my skills 
 
 
 ###
+###
+
+
+<h3 align="left">🎯 Career Objective </h3>
+Aspiring Data Analyst seeking an opportunity in analayzing and visualizing data to help organizations make informed decisions
 ## 📫 Contact Me
 
 <p align="left">
@@ -27,11 +32,7 @@ Currently seeking a <strong>data-driven opportunity</strong> to apply my skills 
   </a>
 </p>
 
-###
 
-
-<h3 align="left">🎯 Career Objective </h3>
-Aspiring Data Analyst seeking an opportunity in analayzing and visualizing data to help organizations make informed decisions
 
 ## 🛠 Languages & Skills
 <div align="left">
@@ -55,9 +56,3 @@ Aspiring Data Analyst seeking an opportunity in analayzing and visualizing data 
 </div>
 
 
-
-## 🌐 Spoken Languages
-
-- Arabic  
-- English
-- French
