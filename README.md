@@ -1,16 +1,18 @@
-# nourayman427
-
-
-
+#
 <h1 align="left">Hey there 👋, I'm Nour Ayman</h1>
+
+
+
 
 ###
 ## 👋 About Me
 
 <p align="left">
 I'm Nour Ayman, a Data Analyst from Egypt <br>
-Skilled in <strong>Excel, Python, SQL, Pandas, NumPy, and data visualization</strong>.  <br>
+I enjoy diving into Data, uncovering patterns and translating numbers into stories that guide smarter actions.
+My toolkit includes Python for Analysis, SQL, Power Bi and Excel to Analyse and visualize data effectively  <br>
 Currently seeking a <strong>data-driven opportunity</strong> to apply my skills and create actionable insights.
+Reach me at : Nourayman427@gmail.com
 </p>
 
 
