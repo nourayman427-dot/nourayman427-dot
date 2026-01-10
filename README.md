@@ -29,6 +29,10 @@ Currently seeking a <strong>data-driven opportunity</strong> to apply my skills 
 
 ###
 
+
+<h3 align="left">🎯 Career Objective </h3>
+Aspiring Data Analyst seeking an opportunity in analayzing and visualizing data to help organizations make informed decisions
+
 ## 🛠 Languages & Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
@@ -51,11 +55,6 @@ Currently seeking a <strong>data-driven opportunity</strong> to apply my skills 
 </div>
 
 
-
-###
-
-<h3 align="left">🎯 Career Objective </h3>
-Aspiring Data Analyst seeking opportunities to apply analytical skills, data visualization, and business understanding to support data-driven decision making.
 
 ## 🌐 Spoken Languages
 
