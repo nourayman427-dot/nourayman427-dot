@@ -50,25 +50,6 @@ Currently seeking a <strong>data-driven opportunity</strong> to apply my skills 
 </div>
 
 
----
-
-
-
-###
-
-
-<h3 align="left">📌 What I Can Do </h3>
-
-
--Data cleaning & preprocessing
-
--Exploratory Data Analysis (EDA)
-
--Data visualization & dashboards
-
--KPI tracking and reporting
-
--Business insights & recommendations
 
 ###
 
