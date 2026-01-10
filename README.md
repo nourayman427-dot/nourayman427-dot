@@ -7,7 +7,8 @@
 ## 👋 About Me
 
 <p align="left">
-I'm <strong>Nour Ayman</strong>, a Data Analyst from Egypt . <br><br>
+I'm <strong>Nour Ayman</strong>, a Data Analyst from Egypt who is seeking an opportunity in analayzing and visualizing data to help organizations make informed decisions
+  <br><br>
 I enjoy diving into data, uncovering patterns, and translating numbers into stories that guide smarter actions. <br>
 My toolkit includes <strong>Python</strong> for analysis, <strong>SQL</strong>, <strong>Power BI</strong>, and <strong>Excel</strong> to analyze and visualize data effectively. <br>
 Currently seeking a <strong>data-driven opportunity</strong> to apply my skills and create actionable insights. <br>
@@ -17,10 +18,6 @@ Currently seeking a <strong>data-driven opportunity</strong> to apply my skills 
 
 ###
 ###
-
-
-<h3 align="left">🎯 Career Objective </h3>
-Aspiring Data Analyst seeking an opportunity in analayzing and visualizing data to help organizations make informed decisions
 
 ###
 ## 📫 Contact Me
