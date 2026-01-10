@@ -4,15 +4,14 @@
 
 
 
-###
 ## 👋 About Me
 
 <p align="left">
-I'm Nour Ayman, a Data Analyst from Egypt <br>
-I enjoy diving into Data, uncovering patterns and translating numbers into stories that guide smarter actions.
-My toolkit includes Python for Analysis, SQL, Power Bi and Excel to Analyse and visualize data effectively  <br>
-Currently seeking a <strong>data-driven opportunity</strong> to apply my skills and create actionable insights.
-Reach me at : Nourayman427@gmail.com
+I'm <strong>Nour Ayman</strong>, a Data Analyst from Egypt 🇪🇬. <br><br>
+I enjoy diving into data, uncovering patterns, and translating numbers into stories that guide smarter actions. <br>
+My toolkit includes <strong>Python</strong> for analysis, <strong>SQL</strong>, <strong>Power BI</strong>, and <strong>Excel</strong> to analyze and visualize data effectively. <br>
+Currently seeking a <strong>data-driven opportunity</strong> to apply my skills and create actionable insights. <br>
+📫 Reach me at: <a href="mailto:Nourayman427@gmail.com">Nourayman427@gmail.com</a>
 </p>
 
 
