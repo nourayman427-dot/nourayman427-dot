@@ -1,5 +1,5 @@
 #
-<h1 align="left">Hey there 👋, I'm Nour Ayman</h1>
+<h1 align="left">Hey there 👋, I'm Nour </h1>
 
 
 
@@ -7,7 +7,7 @@
 ## 👋 About Me
 
 <p align="left">
-I'm <strong>Nour Ayman</strong>, a Data Analyst from Egypt 🇪🇬. <br><br>
+I'm <strong>Nour Ayman</strong>, a Data Analyst from Egypt . <br><br>
 I enjoy diving into data, uncovering patterns, and translating numbers into stories that guide smarter actions. <br>
 My toolkit includes <strong>Python</strong> for analysis, <strong>SQL</strong>, <strong>Power BI</strong>, and <strong>Excel</strong> to analyze and visualize data effectively. <br>
 Currently seeking a <strong>data-driven opportunity</strong> to apply my skills and create actionable insights. <br>
