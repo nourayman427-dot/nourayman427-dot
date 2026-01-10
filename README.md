@@ -21,6 +21,8 @@ Currently seeking a <strong>data-driven opportunity</strong> to apply my skills 
 
 <h3 align="left">🎯 Career Objective </h3>
 Aspiring Data Analyst seeking an opportunity in analayzing and visualizing data to help organizations make informed decisions
+
+###
 ## 📫 Contact Me
 
 <p align="left">
